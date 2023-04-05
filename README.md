@@ -85,4 +85,4 @@ The data is provided by Kaggle and has 10,000 rows and 14 columns as follows :
 
 1. For Decision Tree, Random Forest and XGBoost models, GridSearchCV was used to iterate through relevant parameters and refit the best estimator using 10-fold cross validation. Performance for the latter 2 models was similar.
 
-2. I chose the XGBoost model as it had a high AUC of 0.77, a strong recall of 0.62 and higher precision of 0.69. Also it shows the highest accuracy of 0.86 and highest F-1 score of 0.66.
+2. I chose the XGBoost model as it had a high AUC of 0.77, a strong recall of 0.62 and higher precision of 0.69. Also it shows the highest F-1 score of 0.66.
