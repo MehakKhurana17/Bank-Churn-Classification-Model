@@ -11,7 +11,7 @@ Customer retention is as crucial as customer acquisition when it comes to increa
 
 To do so it is necessary for banks to know what leads a client towards the decision to leave the bank. Also churn prediction allows companies to develop loyalty programs and retention campaigns to keep as many customers as possible 
 
-# Data ->
+# Data
 
 Link to the data : https://www.kaggle.com/datasets/mathchi/churn-for-bank-customers
 
