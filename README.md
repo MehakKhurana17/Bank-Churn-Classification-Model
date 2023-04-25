@@ -79,7 +79,7 @@ The data is provided by Kaggle and has 10,000 rows and 14 columns as follows :
 
 3. Making predictions from the model
 
-4. Testing the performance of the model using performance metrics like Accuracy, Precision, Recall, F-1 score and AUC 
+4. Testing the performance of the model using performance metrics like Precision, Recall, F-1 score and AUC 
 
 ## 📍Task3 -> Choose the most reliable model 
 
